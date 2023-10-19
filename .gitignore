@@ -1,0 +1,9 @@
+.idea
+venv
+manage.py
+
+to_do_task/__init__.py
+
+to_do/migrations
+to_do/__init__.py
+
