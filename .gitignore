@@ -1,6 +1,7 @@
 .idea
 venv
 manage.py
+db.sqlite3
 
 to_do_task/__init__.py
 
